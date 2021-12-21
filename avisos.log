@@ -1,0 +1,33 @@
+[2021-08-26 15:03:05] [ DEBUG] [OdontologoDaoH2:46] Se genera lista de odontologos registrados en la base de datos
+[2021-08-26 15:03:05] [ DEBUG] [ConfiguracionJDBC:36] Se realizo la conexion exitosa a tu base de datos
+[2021-08-26 15:03:05] [ DEBUG] [OdontologoDaoH2:25] Registrando un odontologo con id: null
+[2021-08-26 15:03:05] [ DEBUG] [ConfiguracionJDBC:36] Se realizo la conexion exitosa a tu base de datos
+[2021-08-26 15:03:05] [ DEBUG] [OdontologoDaoH2:25] Registrando un odontologo con id: null
+[2021-08-26 15:03:05] [ DEBUG] [ConfiguracionJDBC:36] Se realizo la conexion exitosa a tu base de datos
+[2021-08-26 15:03:05] [ DEBUG] [OdontologoDaoH2:25] Registrando un odontologo con id: null
+[2021-08-26 15:03:05] [ DEBUG] [ConfiguracionJDBC:36] Se realizo la conexion exitosa a tu base de datos
+[2021-08-26 15:08:41] [ DEBUG] [OdontologoDaoH2:46] Se genera lista de odontologos registrados en la base de datos
+[2021-08-26 15:08:41] [ DEBUG] [ConfiguracionJDBC:36] Se realizo la conexion exitosa a tu base de datos
+[2021-08-26 15:08:41] [ DEBUG] [OdontologoDaoH2:56] Listando odontologos de base de datos: [Odontologo{id=1, numMatricula=12345, nombre='Peter', apellido='Bauman'}]
+[2021-08-26 15:08:41] [ DEBUG] [OdontologoDaoH2:56] Listando odontologos de base de datos: [Odontologo{id=1, numMatricula=12345, nombre='Peter', apellido='Bauman'}, Odontologo{id=2, numMatricula=54238, nombre='Nicolas', apellido='Lopez Lopi'}]
+[2021-08-26 15:08:41] [ DEBUG] [OdontologoDaoH2:56] Listando odontologos de base de datos: [Odontologo{id=1, numMatricula=12345, nombre='Peter', apellido='Bauman'}, Odontologo{id=2, numMatricula=54238, nombre='Nicolas', apellido='Lopez Lopi'}, Odontologo{id=3, numMatricula=45871, nombre='Mariano', apellido='Martinez'}]
+[2021-08-26 15:08:41] [ DEBUG] [OdontologoDaoH2:25] Registrando un odontologo con id: null
+[2021-08-26 15:08:41] [ DEBUG] [ConfiguracionJDBC:36] Se realizo la conexion exitosa a tu base de datos
+[2021-08-26 15:08:41] [ DEBUG] [OdontologoDaoH2:25] Registrando un odontologo con id: null
+[2021-08-26 15:08:41] [ DEBUG] [ConfiguracionJDBC:36] Se realizo la conexion exitosa a tu base de datos
+[2021-08-26 15:08:41] [ DEBUG] [OdontologoDaoH2:25] Registrando un odontologo con id: null
+[2021-08-26 15:08:41] [ DEBUG] [ConfiguracionJDBC:36] Se realizo la conexion exitosa a tu base de datos
+[2021-08-26 15:32:25] [ DEBUG] [OdontologoDaoH2:47] Se genera lista de odontologos registrados en la base de datos
+[2021-08-26 15:32:25] [ DEBUG] [ConfiguracionJDBC:36] Se realizo la conexion exitosa a tu base de datos
+[2021-08-26 15:32:25] [ DEBUG] [OdontologoDaoH2:57] Listando odontologos de base de datos: [Odontologo{id=1, numMatricula=12345, nombre='Peter', apellido='Bauman'}]
+[2021-08-26 15:32:25] [ DEBUG] [OdontologoDaoH2:57] Listando odontologos de base de datos: [Odontologo{id=1, numMatricula=12345, nombre='Peter', apellido='Bauman'}, Odontologo{id=2, numMatricula=54238, nombre='Nicolas', apellido='Lopez Lopi'}]
+[2021-08-26 15:32:25] [ DEBUG] [OdontologoDaoH2:57] Listando odontologos de base de datos: [Odontologo{id=1, numMatricula=12345, nombre='Peter', apellido='Bauman'}, Odontologo{id=2, numMatricula=54238, nombre='Nicolas', apellido='Lopez Lopi'}, Odontologo{id=3, numMatricula=45871, nombre='Mariano', apellido='Martinez'}]
+[2021-08-26 15:32:25] [ DEBUG] [OdontologoDaoH2:57] Listando odontologos de base de datos: [Odontologo{id=1, numMatricula=12345, nombre='Peter', apellido='Bauman'}, Odontologo{id=2, numMatricula=54238, nombre='Nicolas', apellido='Lopez Lopi'}, Odontologo{id=3, numMatricula=45871, nombre='Mariano', apellido='Martinez'}, Odontologo{id=4, numMatricula=12345, nombre='Peter', apellido='Bauman'}]
+[2021-08-26 15:32:25] [ DEBUG] [OdontologoDaoH2:57] Listando odontologos de base de datos: [Odontologo{id=1, numMatricula=12345, nombre='Peter', apellido='Bauman'}, Odontologo{id=2, numMatricula=54238, nombre='Nicolas', apellido='Lopez Lopi'}, Odontologo{id=3, numMatricula=45871, nombre='Mariano', apellido='Martinez'}, Odontologo{id=4, numMatricula=12345, nombre='Peter', apellido='Bauman'}, Odontologo{id=5, numMatricula=54238, nombre='Nicolas', apellido='Lopez Lopi'}]
+[2021-08-26 15:32:25] [ DEBUG] [OdontologoDaoH2:57] Listando odontologos de base de datos: [Odontologo{id=1, numMatricula=12345, nombre='Peter', apellido='Bauman'}, Odontologo{id=2, numMatricula=54238, nombre='Nicolas', apellido='Lopez Lopi'}, Odontologo{id=3, numMatricula=45871, nombre='Mariano', apellido='Martinez'}, Odontologo{id=4, numMatricula=12345, nombre='Peter', apellido='Bauman'}, Odontologo{id=5, numMatricula=54238, nombre='Nicolas', apellido='Lopez Lopi'}, Odontologo{id=6, numMatricula=45871, nombre='Mariano', apellido='Martinez'}]
+[2021-08-26 15:32:25] [ DEBUG] [ConfiguracionJDBC:36] Se realizo la conexion exitosa a tu base de datos
+[2021-08-26 15:32:25] [ DEBUG] [OdontologoDaoH2:37] Registrando un odontologo con id: 7
+[2021-08-26 15:32:25] [ DEBUG] [ConfiguracionJDBC:36] Se realizo la conexion exitosa a tu base de datos
+[2021-08-26 15:32:25] [ DEBUG] [OdontologoDaoH2:37] Registrando un odontologo con id: 8
+[2021-08-26 15:32:25] [ DEBUG] [ConfiguracionJDBC:36] Se realizo la conexion exitosa a tu base de datos
+[2021-08-26 15:32:25] [ DEBUG] [OdontologoDaoH2:37] Registrando un odontologo con id: 9
